@@ -1,0 +1,16 @@
+# Ignore binaries
+blade_c
+blade_cpp
+blade_rs
+blade_zig
+
+# Ignore temporary files
+*.o
+*.out
+*.log
+*.tmp
+
+# Ignore editor/workspace files
+.vscode/
+.idea/
+
